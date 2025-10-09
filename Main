@@ -1,0 +1,8 @@
+
+/ Azure
+├── host.json
+├── requirements.txt
+├── BlobTriggerFunction/
+│   ├── __init__.py
+│   └── function.json
+
