@@ -1,7 +1,11 @@
 
 / Azure
 ├── host.json
+{
+  "version": "2.0"
+}
 ├── requirements.txt
+azure-functions
 ├── BlobTriggerFunction/
 │   ├── __init__.py
 │   └── function.json
